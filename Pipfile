@@ -67,6 +67,7 @@ MarkupSafe = "==1.1.1"
 Pillow = "==6.2.1"
 PyYAML = "==5.1.2"
 ipython_genutils = "==0.2.0"
+statsmodels = "*"
 
 [requires]
 python_version = "3.8"
