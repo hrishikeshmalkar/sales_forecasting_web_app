@@ -68,6 +68,7 @@ Pillow = "==6.2.1"
 PyYAML = "==5.1.2"
 ipython_genutils = "==0.2.0"
 statsmodels = "*"
+xgboost = "==1.2.0"
 
 [requires]
 python_version = "3.8"
