@@ -1,2 +1,5 @@
-# sales_forecasting_web_app
-Its a sales forecasting web app build with python and streamlit
+# Sales Forecasting
+ Sales forecasting ML Web App Build with Stramlit
+
+Build By
+ + Hrishikesh Malkar
